@@ -1,4 +1,4 @@
-# Epson-Projector-Control
+# Epson Projector Control
 A lil c# thing that controls Epson Projectors
 
 # KeyCodes (EB-96W)
